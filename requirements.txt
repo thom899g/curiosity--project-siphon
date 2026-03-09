@@ -1,0 +1,13 @@
+firebase-admin>=6.0.0
+web3>=6.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+ccxt>=4.0.0
+aiohttp>=3.9.0
+asyncio>=3.4.0
+python-telegram-bot>=20.0
+brownie>=1.19.0
+python-dotenv>=1.0.0
+websockets>=12.0
+joblib>=1.3.0
